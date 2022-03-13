@@ -7,3 +7,6 @@ enviando
 a funcionalidade
 x
 enviando a funcionalidade b
+enviando
+a funcionalidade
+y
